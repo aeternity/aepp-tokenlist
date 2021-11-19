@@ -10,13 +10,14 @@ Everyone can add a token meta to the list in the following format:
 
 ```
 {
-  "contract_id" : "ct_2gcT1..." 
-  "decimals" : 18
-  "name" : "Token Name"
-  "symbol: "TKN"
-  //optional
-  "description" : "A brief description of the token"
-  "logo_url" : "https://..."
+  "contract_id" : "ct_2gcT1...",
+  "decimals" : 18,
+  "name" : "Token Name",
+  "symbol: "TKN",
+  "description" : "A brief description of the token",
+  "logo_url" : "https://...",
   "website" : "https://..."
 }
 ```
+
+The fields `description`, `logo_url` & `website` are **optional**.
